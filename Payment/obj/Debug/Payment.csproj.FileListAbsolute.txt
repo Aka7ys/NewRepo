@@ -1,0 +1,6 @@
+C:\Users\Akarys\Source\Repos\Practice_4\Payment\bin\Debug\Payment.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Payment\bin\Debug\Payment.pdb
+C:\Users\Akarys\Source\Repos\Practice_4\Payment\obj\Debug\Payment.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Payment\obj\Debug\Payment.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Payment\obj\Debug\Payment.pdb

@@ -1,0 +1,6 @@
+C:\Users\Akarys\Source\Repos\Practice_4\Student\bin\Debug\Student.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Student\bin\Debug\Student.pdb
+C:\Users\Akarys\Source\Repos\Practice_4\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Student\obj\Debug\Student.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Student\obj\Debug\Student.pdb

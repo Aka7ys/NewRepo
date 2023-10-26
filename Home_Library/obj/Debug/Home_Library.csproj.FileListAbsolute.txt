@@ -1,0 +1,6 @@
+C:\Users\Akarys\Source\Repos\Practice_4\Home_Library\bin\Debug\Home_Library.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Home_Library\bin\Debug\Home_Library.pdb
+C:\Users\Akarys\Source\Repos\Practice_4\Home_Library\obj\Debug\Home_Library.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Home_Library\obj\Debug\Home_Library.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Home_Library\obj\Debug\Home_Library.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Home_Library\obj\Debug\Home_Library.pdb

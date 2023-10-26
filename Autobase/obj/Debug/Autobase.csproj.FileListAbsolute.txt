@@ -1,0 +1,6 @@
+C:\Users\Akarys\Source\Repos\Practice_4\Autobase\bin\Debug\Autobase.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Autobase\bin\Debug\Autobase.pdb
+C:\Users\Akarys\Source\Repos\Practice_4\Autobase\obj\Debug\Autobase.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Autobase\obj\Debug\Autobase.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Autobase\obj\Debug\Autobase.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Autobase\obj\Debug\Autobase.pdb

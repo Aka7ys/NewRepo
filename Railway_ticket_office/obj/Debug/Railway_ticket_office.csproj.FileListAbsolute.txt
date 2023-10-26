@@ -1,0 +1,6 @@
+C:\Users\Akarys\Source\Repos\Practice_4\Railway_ticket_office\bin\Debug\Railway_ticket_office.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Railway_ticket_office\bin\Debug\Railway_ticket_office.pdb
+C:\Users\Akarys\Source\Repos\Practice_4\Railway_ticket_office\obj\Debug\Railway_ticket_office.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Railway_ticket_office\obj\Debug\Railway_ticket_office.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Railway_ticket_office\obj\Debug\Railway_ticket_office.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Railway_ticket_office\obj\Debug\Railway_ticket_office.pdb
