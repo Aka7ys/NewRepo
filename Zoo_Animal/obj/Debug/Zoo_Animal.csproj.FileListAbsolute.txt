@@ -1,0 +1,6 @@
+C:\Users\Akarys\Source\Repos\Practice_4\Zoo_Animal\bin\Debug\Zoo_Animal.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Zoo_Animal\bin\Debug\Zoo_Animal.pdb
+C:\Users\Akarys\Source\Repos\Practice_4\Zoo_Animal\obj\Debug\Zoo_Animal.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Zoo_Animal\obj\Debug\Zoo_Animal.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Practice_4\Zoo_Animal\obj\Debug\Zoo_Animal.dll
+C:\Users\Akarys\Source\Repos\Practice_4\Zoo_Animal\obj\Debug\Zoo_Animal.pdb
